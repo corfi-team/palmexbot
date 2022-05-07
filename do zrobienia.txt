@@ -1,0 +1,12 @@
+4fun:
+ swinka, koala, ptak, fretka, zolw
+
+administracja:
+prefix set, warny, tempban, tempmute, mute, unban, unwarn, ogloszenie, ankieta
+
+praktyczne: embed, kalkulator, id
+
+gry:
+
+
+const client = new Discord.Client({ ws: { properties: { $browser: "Discord iOS" } } }) komenda na status z tel
